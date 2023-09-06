@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b42aef7c.css",
-    "main.js": "/static/js/main.2da31667.js",
-    "static/media/Logo.png": "/static/media/Logo.a16a7b9fab3656675287.png",
-    "static/media/bkgrnd.png": "/static/media/bkgrnd.b481cf09653370c5493a.png",
-    "index.html": "/index.html",
-    "main.b42aef7c.css.map": "/static/css/main.b42aef7c.css.map",
-    "main.2da31667.js.map": "/static/js/main.2da31667.js.map"
+    "main.css": "/DreamBEE_site/static/css/main.2e28eb31.css",
+    "main.js": "/DreamBEE_site/static/js/main.6311006f.js",
+    "static/media/Logo.png": "/DreamBEE_site/static/media/Logo.a16a7b9fab3656675287.png",
+    "static/media/bkgrnd.png": "/DreamBEE_site/static/media/bkgrnd.b481cf09653370c5493a.png",
+    "index.html": "/DreamBEE_site/index.html",
+    "main.2e28eb31.css.map": "/DreamBEE_site/static/css/main.2e28eb31.css.map",
+    "main.6311006f.js.map": "/DreamBEE_site/static/js/main.6311006f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b42aef7c.css",
-    "static/js/main.2da31667.js"
+    "static/css/main.2e28eb31.css",
+    "static/js/main.6311006f.js"
   ]
 }
